@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1756500506241,
+    "timestamp": "2025-08-29T20:48:26.241Z",
+    "examinationBoard": "REB",
+    "yearCompleted": "2025",
+    "rpAdmissionYear": "2025",
+    "combination": "PCB",
+    "department": "Mining & Natural Resources",
+    "course": "Mining Technology",
+    "yearStudy": "Year 1",
+    "marks": {
+      "Physics": 50,
+      "Chemistry": 80,
+      "Biology": 76,
+      "Entrepreneurship": 68,
+      "General Studies": 89
+    }
+  }
+]
